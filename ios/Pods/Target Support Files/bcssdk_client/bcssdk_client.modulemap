@@ -1,0 +1,6 @@
+framework module bcssdk_client {
+  umbrella header "bcssdk_client-umbrella.h"
+
+  export *
+  module * { export * }
+}
